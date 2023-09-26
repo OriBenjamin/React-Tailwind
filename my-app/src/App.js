@@ -17,6 +17,10 @@ function App() {
         >
           Learn React
         </a>
+        <div className='mt-10'>
+        <button className='btn-prev mr-1'>Prev</button>
+        <button className='btn-next ml-1'>Next</button>
+        </div>
       </header>
     </div>
   );
